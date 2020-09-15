@@ -23,6 +23,8 @@ SELECT, INSERT, UPDATE, DELETE, CREATE, DROP, RELOAD, INDEX, DESCRIBE, SHOW DATA
 
 Once MariaDB is completelly installed you need command below to get through:
 
+**NOTE** that uploaded in the project there is a folder with steps reflected below
+
 ![image](https://user-images.githubusercontent.com/43299285/93249962-64675180-f792-11ea-8ce6-9b5077871e03.png)
 
 **Note** that your pc password will be required to access into the databases site.
@@ -88,3 +90,11 @@ Once MariaDB is completelly installed you need command below to get through:
 **P. SELECT films_rented** - Checking result of inserting data with 'SELECT * FROM...' in films_rented table.
 
 ![image](https://user-images.githubusercontent.com/43299285/93256324-77325400-f79b-11ea-8bff-5222761153bf.png)
+
+## ** DONE!!** Your videoClub database is been created!!
+
+### Please go to VideoClubQueries.docx to play around with queries required to complete this project.
+
+## Author:
+
+Jose MMorales
