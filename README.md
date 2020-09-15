@@ -25,4 +25,19 @@ Once MariaDB is completelly installed you need command below to get through:
 
 ![image](https://user-images.githubusercontent.com/43299285/93249962-64675180-f792-11ea-8ce6-9b5077871e03.png)
 
+**Note** that your pc password will be required to access into the databases site.
+
+B. CREATE Database which you are going to work with.
+
+![image](https://user-images.githubusercontent.com/43299285/93251994-38010480-f795-11ea-968a-357efd42743e.png)
+
+C. SHOW databases which is been created in B step.
+
+![image](https://user-images.githubusercontent.com/43299285/93252969-7ea32e80-f796-11ea-8e49-bf4b1c0d787a.png)
+
+D. USE Database - Even we have created videoClub database in last step, we will add data and structure in videoClub_1 database (already created).
+
+**Note** that we use 'USE' command to switch between databases (see below).
+
+![image](https://user-images.githubusercontent.com/43299285/93252549-f2910700-f795-11ea-8235-97107762b71b.png)
 
