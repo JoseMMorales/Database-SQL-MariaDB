@@ -5,15 +5,24 @@ VideoClub database is a simple sample of SQL language to manage the data, admini
 
 ## Pre-requisites 
 
-You need a MySQL database server (8.0+): <a href="https://downloads.mariadb.org/">MariaDB Download HERE</a>
+You need a MySQL database server (10.0+): <a href="https://downloads.mariadb.org/">MariaDB Download HERE</a>
 
 Once set up the server in your computer you just need to run the commands below through to create the database:
 
-SELECT, INSERT, UPDATE, DELETE, CREATE, DROP, RELOAD, INDEX, DESCRIBE, SHOW DATABASES, UNION, CREATE VIEW, CREATE TABLE.
+SELECT, INSERT, UPDATE, DELETE, CREATE, DROP, RELOAD, INDEX, DESCRIBE, SHOW DATABASES, UNION, CREATE VIEW, CREATE TABLE, EXPORT.
 
 ## Installation:
 
 * Clone the project to your local directory.
 * $git clone https://github.com/JoseMMorales/Database-SQL-MariaDB.git
 * $cd Database-SQL-MariaDB to display different files storaged for you to start with
+
+## Steps to create your database:
+
+A. Access to MariaDB.png
+
+Once MariaDB is completelly installed you need command below to get through:
+
+![image](https://user-images.githubusercontent.com/43299285/93249962-64675180-f792-11ea-8ce6-9b5077871e03.png)
+
 
