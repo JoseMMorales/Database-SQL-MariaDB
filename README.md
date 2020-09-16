@@ -31,11 +31,11 @@ SELECT, INSERT, UPDATE, DELETE, CREATE, DROP, RELOAD, INDEX, DESCRIBE, SHOW DATA
 
 ![image](https://user-images.githubusercontent.com/43299285/93251994-38010480-f795-11ea-968a-357efd42743e.png)
 
-**C. SHOW databases** - Command to display databases in your server (There you may see videoclub database just created).
+**C. SHOW databases** - Command to display databases in your server (You may see videoclub database just created).
 
 ![image](https://user-images.githubusercontent.com/43299285/93252969-7ea32e80-f796-11ea-8e49-bf4b1c0d787a.png)
 
-**D. USE Database** - Command to pick databases up, we will use videoClub_1 database (already created in this example) to insert data and structure.
+**D. USE Database** - Command to pick databases up, we will use videoClub_1 database (already created in this sample) to insert data and structure.
 
 ![image](https://user-images.githubusercontent.com/43299285/93252549-f2910700-f795-11ea-8235-97107762b71b.png)
 
