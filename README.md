@@ -15,7 +15,7 @@ SELECT, INSERT, UPDATE, DELETE, CREATE, DROP, RELOAD, INDEX, DESCRIBE, SHOW DATA
 
 * Clone the project to your local directory.
 * $git clone https://github.com/JoseMMorales/Database-SQL-MariaDB.git
-* $cd Database-SQL-MariaDB to display different files storaged for you to start with.
+* $cd Database-SQL-MariaDB to display different files storage for you to start with.
 
 ## Steps to create your database:
 
